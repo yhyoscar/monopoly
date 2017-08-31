@@ -1,4 +1,4 @@
-**Monopoly Simulator 1.0**
+#Monopoly Simulator 1.0
 
 Author: Haiyang Yu
 Email: yhyoscar@gmail.com
