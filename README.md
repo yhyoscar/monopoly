@@ -1,7 +1,6 @@
 # Monopoly Simulator 1.0
 
-Author: Haiyang Yu
-Email: yhyoscar@gmail.com
+Contact: yhyoscar@gmail.com
 Updated: 08/31/2017
 
 Quick start:
