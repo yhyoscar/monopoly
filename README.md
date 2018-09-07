@@ -9,5 +9,5 @@ Quick start:
 
 The output text files and figures will be generated in ./src/output.
 
-You are welcomed to contact with me for further discussions!
+You are welcomed to contact me for further discussions!
 
